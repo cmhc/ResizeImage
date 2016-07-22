@@ -1,0 +1,4 @@
+images/input/*.jpg
+images/output/*.jpg
+vendor/*
+composer.lock
